@@ -1,5 +1,7 @@
 # ☁️ Azure Handbook RAG
 
+[![tests](https://github.com/Atharv1414/azure-handbook-rag/actions/workflows/tests.yml/badge.svg)](https://github.com/Atharv1414/azure-handbook-rag/actions/workflows/tests.yml)
+
 A small end-to-end retrieval-augmented generation app. It answers questions about a folder of documents, with citations, using **Azure AI Search** for retrieval and **Azure AI Foundry** for embeddings and answers.
 
 ```mermaid
